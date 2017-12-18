@@ -1,11 +1,19 @@
 {
-  "posts": [
+  "profile": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "hello",
+      "age": 21
+    },
+    {
+      "id": 2,
+      "name": "qweqrew",
+      "age": 26
+    },
+    {
+      "id": 3,
+      "name": "uutiyh",
+      "age": 30
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
